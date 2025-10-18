@@ -65,22 +65,22 @@ export const navItems = [
 const bentoSocialLinks = [
   {
     name: "Facebook",
-    href: "https://www.facebook.com/maryam.loghmari.2025?rdid=NAT3dcq0IJrEC1Lw&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1BKYR3pGtQ%2F#",
+    href: "https://www.facebook.com/share/16RtqufTty/",
     icon: fb,
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/maryam_loghmari/",
+    href: "https://www.instagram.com/zaineb_baccara?igsh=MTNxaWxqZWNvZDZsbg==",
     icon: insta,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/maryam-loghmari-maryam-221478382/",
+    href: "https://www.linkedin.com/in/zeineb-baccara-baa90437a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     icon: Linked,
   },
   {
     name: "WhatsApp",
-    href: "https://wa.me/21623403068",
+    href: "https://wa.me/21629139913",
     icon: WhatsApp,
   },
 ];
@@ -221,10 +221,10 @@ export const technologies = [
 ];
 export const myProjects = [
   {
-    title: 'Mini- Drone',
-    desc: 'This project develops a quadcopter using an ESP32, controlled via smartphone over Wi-Fi. The MPU6050 sensor measures motion and orientation. A PID algorithm stabilizes the drone by adjusting motor speeds.',
+    title: 'Security Robot',
+    desc: 'The project involves creating an autonomous security robot capable of monitoring a space, detecting intrusions, and sending alerts in real time. Equipped with sensors, a camera, and an intelligent navigation system, it can patrol, avoid obstacles, and analyze its environment. ',
     subdesc:
-        '  The system ensures smooth and balanced flight.',
+        '  This robot aims to enhance security while reducing human surveillance.',
     href: 'https://github.com/medihebtbessi/speedyGoPIDev.git',
     texture: [
       tttttttt,
@@ -241,10 +241,10 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Mini Manual Hydraulic Press',
-    desc: 'The mini manual hydraulic press is a compact and durable tool used for small pressing, bending, or forming tasks. It operates with a hand pump that generates hydraulic pressure, providing strong force with minimal effort.Easy to use and portable, it is ideal for workshops, laboratories, and educational projects.left arrowright arrow',
+    title: 'Smart House',
+    desc: 'This project involves creating a connected smart house that can be controlled and monitored remotely using the Arduino IoT Cloud. Thanks to this online platform, you can visualize sensors in real-time, activate relays, monitor temperature, or even trigger an alarm from your smartphone or PC.',
     subdesc:
-        ' Easy to use and portable, it is ideal for workshops, laboratories, and educational projects.left arrowright arrow',
+        ' ',
     href: 'https://github.com/medazizdhaya26/esprit.git',
     texture: [
      azerty
@@ -260,10 +260,10 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Hand Gesture Control Robot\n',
-    desc: 'This project focuses on developing an Internet of Things (IoT)–based system designed to enable remote monitoring and control through internet connectivity. Using sensors and microcontrollers, the system collects real-time data and transmits it to an online platform or mobile application for analysis and control. Users can observe system status, receive alerts, and manage connected devices from any location. The project demonstrates the integration of embedded systems with cloud technology, emphasizing automation, data accessibility, and intelligent decision-making in connected environments.',
+    title: 'Multi-source charger',
+    desc: 'This project aims to design a car capable of recovering energy from vibrations and rain. The energy produced is stored in a capacitor or small generator, then used to power the vehicle s lights, dashboard, and internal sensors. ',
     subdesc:
-        'The project demonstrates the integration of embedded systems with cloud technology, emphasizing automation, data accessibility, and intelligent decision-making in connected environments.',
+        'The system reduces primary energy consumption and makes the car more environmentally friendly and autonomous by recovering renewable energy from its surroundings.',
     href: 'https://etnafes.com/',
     texture: [greee
 

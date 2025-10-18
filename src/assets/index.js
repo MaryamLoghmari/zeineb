@@ -57,10 +57,10 @@ import fb from "./fb.svg";
 import insta from "./insta.svg";
 import Linked from "./linkedin.svg";
 import WhatsApp from "./fb.svg";
-import tttttttt from "./tttttttt.jpeg";
+import tttttttt from "./tttttttt.png";
 import logoaa from "./logoaa.png";
-import azerty from "./azerty.jpeg";
-import greee from "./greee.jpeg";
+import azerty from "./azerty.png";
+import greee from "./greee.png";
 
 
 

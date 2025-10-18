@@ -1,6 +1,6 @@
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls } from "@react-three/drei";
-import flowerImg from '../assets/img_1.png'; // relative path from your component file
+import flowerImg from '../assets/img_1.jpg'; // relative path from your component file
 
 import TitleHeader from "../components/TitleHeader";
 import GradientSpheres from "../components/GradientSpheres";
@@ -18,7 +18,7 @@ const About = () => {
         <TitleHeader
           title="About Me"
           number="01"
-          text="Passionate Mechanics and Production Engineering Student
+          text="passionate industrial electronics engineering student
 "
         />
         <div className="md:mt-20 mt-10">
@@ -37,9 +37,9 @@ const About = () => {
                 {/* Text */}
                 <div className="mt-5 md:mt-0">
                   <h1 className="text-blue-50 md:text-5xl text-3xl">
-LOGHMARI Maryem                 </h1>
+BACCARA Zeineb                </h1>
                   <p className="md:text-xl mt-2">
-I'm a Mechanical and Manufacturing Engineering student at ENISO in Tunisia and an active member of JEENISO, with a strong interest in modern technologies and design tools. I enjoy developing projects using Python, SolidWorks, and ISIS, and I'm constantly driven to expand my skills and explore new tools.                  </p>
+I'm a passionate industrial electronics engineering student at ENISO in Tunisia and an actif member of JEENISo, with a strong interest in embedded systems, digital design, and hardware-software integration. I enjoy working on projects involving microcontrollers, circuit design, and IoT technologies, and I’m always eager to learn and explore new tools and technologies in the field of electronics.                  </p>
                 </div>
               </div>
 
